@@ -1,6 +1,6 @@
 # Ecoflex Hackathon Evaluation Pipeline
 
-This repository contains a simple evaluation pipeline for scoring hackathon
+This repository contains a simple evaluation pipeline for scoring RAG
 responses using either a large language model (LLM) or a heuristic fallback.
 The code was designed for the GreenHorizon Ecoflex hackathon but can be
 adapted to other scenarios with minimal changes.
